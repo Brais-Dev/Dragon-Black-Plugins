@@ -9,5 +9,16 @@
         "main": "plugin.py",
         "command": "zip-crack",
         "default_function": "main"
+    },
+    {
+        "name": "saludo",
+        "version": "1.0.2",
+        "author": "prueva",
+        "description": "hola a todos",
+        "source": "https://github.com/dragon-blac/saludo",
+        "git_url": "https://github.com/dragon-blac/saludo",
+        "main": "plugin.py",
+        "command": "saludo",
+        "default_function": "main"
     }
 ]
